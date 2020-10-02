@@ -1,0 +1,2 @@
+export SINGULARITY_TMPDIR=/hpc/group/egnerlab/tmp
+singularity build /my_images/fmriprep-20.1.1.simg docker://poldracklab/fmriprep:20.1.1

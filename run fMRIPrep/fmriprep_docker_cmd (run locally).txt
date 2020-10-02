@@ -1,0 +1,1 @@
+fmriprep-docker "C:/Users/Tanya Wen/Desktop/fMRI/decodCC.01_BIDS/Nifti" "C:/Users/Tanya Wen/Desktop/fMRI/decodCC.01_BIDS/Preprocessed" participant --participant-label 03 --dummy-scans 4 --skull-strip-t1w force --fs-license-file "C:/Users/Tanya Wen/Desktop/fMRI/freesurfer.txt"
